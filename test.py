@@ -12,7 +12,7 @@ height = 500
 snake_x = 250
 snake_y = 250
 snake_size = 10
-
+#oida
 # set the initial speed of the snake
 snake_speed = 20
 
